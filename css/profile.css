@@ -1,0 +1,14 @@
+.card-header {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .card-body p {
+    margin-bottom: 0.5rem;
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
